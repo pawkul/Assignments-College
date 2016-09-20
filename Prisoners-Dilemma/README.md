@@ -1,1 +1,1 @@
-Prisoner's dilemma simulation with few different strategies
+Prisoner's dilemma simulation
